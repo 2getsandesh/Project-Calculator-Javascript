@@ -1,0 +1,24 @@
+.calc{
+    width: 400px;
+    height: 450px;
+    background-color: rgb(96, 113, 113);
+    margin-left: 35%;
+}
+
+#screen{
+    width: 85%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 25px;
+    pointer-events: none;
+    
+}
+
+.btn{
+    background-color: bisque;
+    width: 17%;
+    height: 50px;
+    margin-left: 5.5%;
+    margin-top: 5%;
+    
+}
